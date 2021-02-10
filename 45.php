@@ -11,6 +11,7 @@
     <input type="text" name="digit">
     <button>submit</button>
     </form>
+    
 </body>
 <?php
     if(isset($_POST['digit'])){
